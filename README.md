@@ -5,9 +5,9 @@ This project uses AI and machine learning to predict antibiotic resistance patte
 The data used in this project is available at https://doi.org/10.5061/dryad.jq2bvq8kp.
 Data preprocessing is provided in the following notebooks:
 
-Inpatient Data Preprocessing: Inpatient_data_preprocessing.ipynb
+Inpatient Data Preprocessing: DataPrepration_Inpatient_AllAbx.ipynb
 
-Outpatient Data Preprocessing: Outpatient_data_preprocessing.ipynb
+Outpatient Data Preprocessing: DataPrepration_Outpatient_AllAbx.ipynb
 
 ## Approach 1:
 For each antibiotic, we developed a model to predict patient susceptibility using available EHR data at the time of culture order, including:
