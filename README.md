@@ -22,6 +22,7 @@ The Recursive Feature Elimination (RFE) approach was used to remove features wit
 
 5-fold cross-validation with random search was used to optimize hyperparameters.
 
-The AUC for each antibiotic, with and without the history of prior microbial resistance in the last 6 months, is provided in Figure 1.
+Shap analysis and AUC plots are also provided. 
 
+The link to the paper will be provided (under review)
 Approach 2:
